@@ -1,0 +1,778 @@
+{
+    "keuangan": {
+      "saat_visitasi": {
+        "kesimpulan_umum": "",
+        "hasil_evaluasi": "",
+        "indikator_evaluasi": [
+          {
+            "butir": "1.1",
+            "persyaratan": "Studi kelayakan perubahan PTS Akademik",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Studi kelayakan yang disampaikan berdasarkan kajian yang mendalam dan komprehensif sehingga mendukung penyusunan proyeksi arus kas yang memenuhi kriteria",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Proyeksi Arus Kas untuk semua program studi, baik program studi yang sudah ada maupun program studi yang akan dibuka, yang disampaikan realistis (wajar), lengkap, masuk akal (logis), sesuai dengan sumber dana yang dimiliki Badan Penyelenggara, konsisten dengan bab-bab sebelumnya pada Studi Kelayakan, tidak bersaldo negatif, minimal selama 5 (lima) tahun ke depan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "2.1",
+            "persyaratan": "Laporan keuangan Badan Penyelenggara PTS, dengan ketentuan: \n1. Tanpa audit oleh akuntan publik apabila Badan Penyelenggara tersebut beroperasi kurang dari 3 (tiga) tahun; atau\n2. Dengan audit oleh akuntan publik apabila Badan Penyelenggara tersebut telah beroperasi lebih dari 3 (tiga) tahun;\nLaporan keuangan yang disampaikan  sesuai  Standar Akuntansi yang berlaku",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Laporan Keuangan Badan Penyelenggara untuk periode 3 (tiga) tahun terakhir sebelum dilakukan pengusulan, kecuali untuk Badan Penyelenggara yang beroperasi kurang dari tiga tahun disesuaikan dengan masa operasi Badan Penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Laporan keuangan dapat berdasarkan PSAK 45 untuk Laporan Keuangan untuk periode yang berakhir sebelum atau pada tanggal 31 Desember 2019 atau berdasarkan ISAK 35 untuk Laporan Keuangan untuk periode yang dimulai 1 Januari 2020",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Laporan Keuangan yang disampaikan disusun berdasarkan perhitungan yang akurat, konsisten antar periode, dan tidak menimbulkan kerancuan/kebingungan",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Keuangan Badan Penyelenggara dalam kondisi sehat dilihat dari hasil operasional penyelenggaraan, likuiditas, dan solvbilitas sehingga mampu melaksanakan operasi dan investasi perguruan tinggi sesuai dengan yang direncanakan pada Studi Kelayakan. Jika ada masalah dengan kesehatan keuangan Badan Penyelenggara, maka Badan Penyelenggara diminta untuk menyampaikan penjelasan mengenai tindakan-tindakan yang telah dan akan dilakukan untuk menyehatkan keuangan Badan Penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "3.1",
+            "persyaratan": "Menyatakan kesanggupan untuk menyediakan dana investasi dan dana operasional dari PTS Akademik hasil perubahan, yang ditandatangani oleh semua organ Badan Penyelenggara.\n\nMenunjukkan bukti asli kepemilikan dana, bukan surat keterangan/referensi bank atas rekening yang dimiliki, surat jaminan bank, garansi bank atau lembaga jasa keuangan lainnya,   dalam jumlah yang menyukupi untuk investasi dan operasional PTS Akademik yang akan dibentuk sesuai dengan Proyeksi Arus Kas, dengan menunjukkan rekening koran, tabungan, sertifikat deposito, dan surat berharga lainnya atas nama Badan Penyelenggara dan Akta Hibah atas dana, sebagai bagian dari Bukti Kepemilikan Dana, jika Badan Penyelenggara memperoleh hibah",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli surat pernyataan kesanggupan untuk menyediakan dana investasi dan dana operasional dari Badan Penyelenggara PTS Akademik hasil perubahan, yang ditandatangani oleh semua organ Badan Penyelenggara.",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Scan asli rekening giro bank, tabungan, deposito, dan/atau akta hibah",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          }
+        ]
+      },
+      "paska_visitasi": {
+        "kesimpulan_umum": "",
+        "hasil_evaluasi": "",
+        "indikator_evaluasi": [
+          {
+            "butir": "1.1",
+            "persyaratan": "Studi kelayakan perubahan PTS Akademik",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Studi kelayakan yang disampaikan berdasarkan kajian yang mendalam dan komprehensif sehingga mendukung penyusunan proyeksi arus kas yang memenuhi kriteria",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Proyeksi Arus Kas untuk semua program studi, baik program studi yang sudah ada maupun program studi yang akan dibuka, yang disampaikan realistis (wajar), lengkap, masuk akal (logis), sesuai dengan sumber dana yang dimiliki Badan Penyelenggara, konsisten dengan bab-bab sebelumnya pada Studi Kelayakan, tidak bersaldo negatif, minimal selama 5 (lima) tahun ke depan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "2.1",
+            "persyaratan": "Laporan keuangan Badan Penyelenggara PTS, dengan ketentuan: \n1. Tanpa audit oleh akuntan publik apabila Badan Penyelenggara tersebut beroperasi kurang dari 3 (tiga) tahun; atau\n2. Dengan audit oleh akuntan publik apabila Badan Penyelenggara tersebut telah beroperasi lebih dari 3 (tiga) tahun;\nLaporan keuangan yang disampaikan  sesuai  Standar Akuntansi yang berlaku",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Laporan Keuangan Badan Penyelenggara untuk periode 3 (tiga) tahun terakhir sebelum dilakukan pengusulan, kecuali untuk Badan Penyelenggara yang beroperasi kurang dari tiga tahun disesuaikan dengan masa operasi Badan Penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Laporan keuangan dapat berdasarkan PSAK 45 untuk Laporan Keuangan untuk periode yang berakhir sebelum atau pada tanggal 31 Desember 2019 atau berdasarkan ISAK 35 untuk Laporan Keuangan untuk periode yang dimulai 1 Januari 2020",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Laporan Keuangan yang disampaikan disusun berdasarkan perhitungan yang akurat, konsisten antar periode, dan tidak menimbulkan kerancuan/kebingungan",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Keuangan Badan Penyelenggara dalam kondisi sehat dilihat dari hasil operasional penyelenggaraan, likuiditas, dan solvbilitas sehingga mampu melaksanakan operasi dan investasi perguruan tinggi sesuai dengan yang direncanakan pada Studi Kelayakan. Jika ada masalah dengan kesehatan keuangan Badan Penyelenggara, maka Badan Penyelenggara diminta untuk menyampaikan penjelasan mengenai tindakan-tindakan yang telah dan akan dilakukan untuk menyehatkan keuangan Badan Penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "3.1",
+            "persyaratan": "Menyatakan kesanggupan untuk menyediakan dana investasi dan dana operasional dari PTS Akademik hasil perubahan, yang ditandatangani oleh semua organ Badan Penyelenggara.\n\nMenunjukkan bukti asli kepemilikan dana, bukan surat keterangan/referensi bank atas rekening yang dimiliki, surat jaminan bank, garansi bank atau lembaga jasa keuangan lainnya,   dalam jumlah yang menyukupi untuk investasi dan operasional PTS Akademik yang akan dibentuk sesuai dengan Proyeksi Arus Kas, dengan menunjukkan rekening koran, tabungan, sertifikat deposito, dan surat berharga lainnya atas nama Badan Penyelenggara dan Akta Hibah atas dana, sebagai bagian dari Bukti Kepemilikan Dana, jika Badan Penyelenggara memperoleh hibah",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli surat pernyataan kesanggupan untuk menyediakan dana investasi dan dana operasional dari Badan Penyelenggara PTS Akademik hasil perubahan, yang ditandatangani oleh semua organ Badan Penyelenggara.",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Scan asli rekening giro bank, tabungan, deposito, dan/atau akta hibah",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "umum": {
+      "saat_visitasi": {
+        "kesimpulan_umum": "",
+        "hasil_evaluasi": "",
+        "indikator_evaluasi": [
+          {
+            "butir": "1.1",
+            "persyaratan": "Semua dosen untuk seluruh program studi yang sudah ada paling sedikit berjumlah 5 (lima) orang dosen tetap per program studi yang termutakhir sesuai dengan PDDIKTI",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Dosen untuk seluruh program studi yang sudah ada paling sedikit berjumlah 5 (lima) orang dosen tetap per program studi yang termutakhir sesuai dengan PDDIKTI",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Nisbah dosen dan mahasiswa pada program studi yang sudah ada (tidak termasuk dosen tetap yang akan ditugaskan ke program studi baru yang akan dibuka), sebagai berikut:\n1) 1 (satu) dosen berbanding paling banyak 45 (empat puluh lima) mahasiswa untuk rumpun ilmu agama, rumpun ilmu humaniora, rumpun ilmu sosial, dan/atau rumpun ilmu terapan (bisnis, pendidikan, keluarga dan konsumen, olahraga, jurnalistik, media massa dan komunikasi, hukum, perpustakaan dan permuseuman, militer, administrasi publik, dan pekerja sosial); dan \n 2) 1 (satu) dosen berbanding paling banyak 30 (tiga puluh) mahasiswa untuk rumpun ilmu alam, rumpun ilmu formal, dan/atau rumpun ilmu terapan (pertanian, arsitektur dan perencanaan, teknik, kehutanan dan lingkungan, kesehatan, dan transportasi)",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "1.2",
+            "persyaratan": "Semua tenaga Kependidikan paling sedikit berjumlah 2 (dua) orang untuk melayani setiap program studi dan 1 (satu) orang untuk melayani Perpustakaan, pada program studi yang sudah ada",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Tenaga Kependidikan paling sedikit berjumlah 2 (dua) orang untuk melayani setiap program studi yang sudah ada dan 1 (satu) orang untuk melayani Perpustakaan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "2.1",
+            "persyaratan": "Telaah tersedia sarana dan prasarana untuk penyelenggaraan PTS  Akademik di lokasi kampus utama",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Ruang dosen tetap untuk setiap program studi yang sudah ada paling sedikit 4 (empat) m2 per orang",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Perguruan tinggi memiliki ruang kuliah, ruang administrasi dan kantor, dan ruang laboratorium, komputer, dan sarana praktikum dan/atau penelitian yang cukup, sekalipun digunakan bersama dg program studi yang akan dibuka",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Ruang dosen tetap untuk setiap program studi yang sudah ada paling sedikit 4 (empat) m2 per orang",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "3.1",
+            "persyaratan": "Organisasi dan tata kerja PTS yang akan berubah sebagaimana tercantum di dalam statuta",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen Statuta PTS yang telah ada",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Organisasi dan tata kerja PTS yang memiliki 5 (lima) unsur, yaitu:\n1. Unsur penyusun kebijakan;\n2. Unsur pelaksana akademik;\n3. Unsur penjaminan mutu;\n4. Unsur penunjang akademik atau sumber belajar; dan \n5. Unsur pelaksana administrasi atau tata usaha",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "4.1",
+            "persyaratan": "Rencana penjaminan mutu",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen rencana SPMI PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Rancangan Sistem Penjaminan Mutu Internal (SPMI) perguruan tinggi minimal dalam bentuk (a) Dokumen Kebijakan Sistem Penjaminan Mutu Internal dan (b) informasi keberadaan dokumen SPMI lainnya sesuai dengan ketentuan peraturan perundang-undangan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "4.2",
+            "persyaratan": "Sistem penjaminan mutu PTS yang akan berubah",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen SPMI PTS yang telah ada",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Keterlaksanaan Sistem Penjaminan Mutu Internal (SPMI), yaitu:\n1. dokumen legal pembentukan unsur pelaksana penjaminan mutu;\n2. ketersediaan dokumen mutu: kebijakan SPMI, manual SPMI, standar SPMI, dan formulir SPMI;\n3. terlaksananya siklus penjaminan mutu (siklus PPEPP);",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "5.1",
+            "persyaratan": "Rencana strategis PTS yang akan berubah",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen rencana strategis PTS yang telah ada",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Mencantumkan rencana perubahan PTS dan/atau pembukaan program studi dalam Renstra",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          }
+        ]
+      },
+      "paska_visitasi": {
+        "kesimpulan_umum": "",
+        "hasil_evaluasi": "",
+        "indikator_evaluasi": [
+          {
+            "butir": "1.1",
+            "persyaratan": "Semua dosen untuk seluruh program studi yang sudah ada paling sedikit berjumlah 5 (lima) orang dosen tetap per program studi yang termutakhir sesuai dengan PDDIKTI",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Dosen untuk seluruh program studi yang sudah ada paling sedikit berjumlah 5 (lima) orang dosen tetap per program studi yang termutakhir sesuai dengan PDDIKTI",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Nisbah dosen dan mahasiswa pada program studi yang sudah ada (tidak termasuk dosen tetap yang akan ditugaskan ke program studi baru yang akan dibuka), sebagai berikut:\n1) 1 (satu) dosen berbanding paling banyak 45 (empat puluh lima) mahasiswa untuk rumpun ilmu agama, rumpun ilmu humaniora, rumpun ilmu sosial, dan/atau rumpun ilmu terapan (bisnis, pendidikan, keluarga dan konsumen, olahraga, jurnalistik, media massa dan komunikasi, hukum, perpustakaan dan permuseuman, militer, administrasi publik, dan pekerja sosial); dan \n 2) 1 (satu) dosen berbanding paling banyak 30 (tiga puluh) mahasiswa untuk rumpun ilmu alam, rumpun ilmu formal, dan/atau rumpun ilmu terapan (pertanian, arsitektur dan perencanaan, teknik, kehutanan dan lingkungan, kesehatan, dan transportasi)",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "1.2",
+            "persyaratan": "Semua tenaga Kependidikan paling sedikit berjumlah 2 (dua) orang untuk melayani setiap program studi dan 1 (satu) orang untuk melayani Perpustakaan, pada program studi yang sudah ada",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Tenaga Kependidikan paling sedikit berjumlah 2 (dua) orang untuk melayani setiap program studi yang sudah ada dan 1 (satu) orang untuk melayani Perpustakaan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "2.1",
+            "persyaratan": "Telaah tersedia sarana dan prasarana untuk penyelenggaraan PTS  Akademik di lokasi kampus utama",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "STUDI KELAYAKAN",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Ruang dosen tetap untuk setiap program studi yang sudah ada paling sedikit 4 (empat) m2 per orang",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Perguruan tinggi memiliki ruang kuliah, ruang administrasi dan kantor, dan ruang laboratorium, komputer, dan sarana praktikum dan/atau penelitian yang cukup, sekalipun digunakan bersama dg program studi yang akan dibuka",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Ruang dosen tetap untuk setiap program studi yang sudah ada paling sedikit 4 (empat) m2 per orang",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "3.1",
+            "persyaratan": "Organisasi dan tata kerja PTS yang akan berubah sebagaimana tercantum di dalam statuta",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen Statuta PTS yang telah ada",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Organisasi dan tata kerja PTS yang memiliki 5 (lima) unsur, yaitu:\n1. Unsur penyusun kebijakan;\n2. Unsur pelaksana akademik;\n3. Unsur penjaminan mutu;\n4. Unsur penunjang akademik atau sumber belajar; dan \n5. Unsur pelaksana administrasi atau tata usaha",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "4.1",
+            "persyaratan": "Rencana penjaminan mutu",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen rencana SPMI PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Rancangan Sistem Penjaminan Mutu Internal (SPMI) perguruan tinggi minimal dalam bentuk (a) Dokumen Kebijakan Sistem Penjaminan Mutu Internal dan (b) informasi keberadaan dokumen SPMI lainnya sesuai dengan ketentuan peraturan perundang-undangan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "4.2",
+            "persyaratan": "Sistem penjaminan mutu PTS yang akan berubah",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen SPMI PTS yang telah ada",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Keterlaksanaan Sistem Penjaminan Mutu Internal (SPMI), yaitu:\n1. dokumen legal pembentukan unsur pelaksana penjaminan mutu;\n2. ketersediaan dokumen mutu: kebijakan SPMI, manual SPMI, standar SPMI, dan formulir SPMI;\n3. terlaksananya siklus penjaminan mutu (siklus PPEPP);",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "5.1",
+            "persyaratan": "Rencana strategis PTS yang akan berubah",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Dokumen rencana strategis PTS yang telah ada",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Mencantumkan rencana perubahan PTS dan/atau pembukaan program studi dalam Renstra",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "hukum": {
+      "saat_visitasi": {
+        "kesimpulan_umum": "",
+        "hasil_evaluasi": "",
+        "indikator_evaluasi": [
+          {
+            "butir": "1.1",
+            "persyaratan": "Memiliki akta notaris pendirian Badan Penyelenggara beserta segala perubahannya (jika pernah dilakukan perubahan)",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Akta notaris pendirian Badan Penyelenggara beserta segala perubahannya (jika pernah dilakukan perubahan)",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Dalam anggaran dasar disebutkan bahwa salah satu kegiatan badan penyelenggara adalah menyelenggarakan pendidikan tinggi/lembaga formal dalam bentuk perguruan tinggi",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Dalam hal anggaran dasar badan penyelenggara telah mengalami beberapa kali perubahan, setiap perubahan tersebut tercantum dalam akta perubahan hingga akta yang terakhir",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "1.2",
+            "persyaratan": "Memiliki keputusan pejabat yang berwenang tentang pengesahan Badan Penyelenggara sebagai badan hukum, misalnya Surat Keputusan Menkumham untuk Yayasan",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Surat keputusan pejabat yang berwenang tentang pengesahan Badan Penyelenggara sebagai badan hukum, misalnya Surat Keputusan Menkumham untuk Yayasan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "2.1",
+            "persyaratan": "Akta Notaris tentaang kesepakatan alih kelola/penggabungan/penyatuan PTS",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Akta Notaris tentaang kesepakatan alih kelola/penggabungan/penyatuan PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "3.1",
+            "persyaratan": "Keputusan izin pendirian PTS, dan izin pembukaan setiap program studi, beserta semua perubahannya",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Surat Keputusan izin pendirian PTS, izin pembukaan program setiap studi, beserta semua perubahannya",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Nama badan penyelenggara PTS dalam SK ijin pendirian sama dengan nama badan penyelenggara yang mengajukan usul",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "4.1",
+            "persyaratan": "Persetujuan Tertulis tentang Perubahan PTS dari organ Badan Penyelenggara yang berwenang sesuai dengan ketentuan Peraturan Perundang-Undangan, atau sebutan lain",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli surat persetujuan badan penyelenggara tentang perubahan PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Scan asli berita acara yang ditandatangani oleh organ Badan Penyelenggara yang berwenang sesuai dengan ketentuan Peraturan Perundang-Undangan dengan melampirkan daftar hadir rapat persetujuan perubahan PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "5.1",
+            "persyaratan": "Pertimbangan Tertulis dari Senat PTS tentang Rekomendasi Perubahan PTS",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan Asli Pertimbangan Tertulis Senat PTS tentang Rekomendasi Perubahan PTS dilengkapi dengan berita acara dan daftar hadir Rapat Senat.",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "6.1",
+            "persyaratan": "Rekomendasi tertulis dari LLDIKTI (masa berlaku rekomendasi paling lama 1 tahun sejak rekomendasi ditandatangani) yang memuat:\n1. Rekam jejak (termasuk legalitas) Badan Penyelenggara yang berdomisili di wilayah LLDIKTI tempat PTS berada, atau apabila domisili Badan Penyelenggara berbeda dengan domisili PTS, rekomendasi diminta dari LLDIKTI di wilayah Badan Penyelenggara berdomisili;\n2. Tingkat kejenuhan berbagai Program Studi Akademik yang akan dibuka",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Rekomendasi tertulis dari LLDIKTI.",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Rekomendasi menyebutkan dengan jelas jenis perubahan PTS yang diusulkan, nama badan penyelenggara yang mengusulkan, dan/atau program studi baru yang akan dibuka",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.1",
+            "persyaratan": "Lahan untuk kampus perguruan tinggi yang akan dibentuk memiliki luas paling sedikit 10.000 (sepuluh ribu) m2 untuk universitas, 8.000 (delapan ribu) m2 untuk institut, dan 5.000 (lima ribu) m2 untuk sekolah tinggi, dengan status Hak Milik, Hak Guna Bangunan, atau Hak Pakai atas nama Badan Penyelenggara, sebagaimana dibuktikan dengan Sertifikat Hak Milik, Hak Guna Bangunan, atau Hak Pakai dalam 1 (satu) wilayah kecamatan.",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli sertipikat hak atas tanah dengan status Hak Milik, Hak Guna Bangunan, atau Hak Pakai atas nama Badan Penyelenggara, sebagaimana dibuktikan dengan Sertifikat Hak Milik, Hak Guna Bangunan, atau Hak Pakai dalam 1 (satu) wilayah kecamatan; atau",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.2",
+            "persyaratan": "Dalam hal luas lahan untuk kampus PTS  Akademik sebagaimana dimaksud di atas tidak dapat dipenuhi, dengan izin Menteri kekurangan luas lahan dapat diperhitungkan dengan luas bangunan yang digunakan untuk kegiatan pembelajaran.",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli surat permohonan kepada Menteri tentang luas bangunan yang diperhitungkan sebagai pemenuhan kekurangan luas lahan  untuk kegiatan pembelajaran.",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.3",
+            "persyaratan": "Dalam hal status lahan untuk kampus PTS Akademik belum atas nama Badan Penyelanggara, Badan Penyelenggara dapat menggunakan lahan atas nama pihak lain berdasarkan perjanjian sewa-menyewa dengan hak membeli pertama kali yang dibuat di hadapan Notaris. Perjanjian sewa-menyewa tersebut berlangsung paling lama 10 (sepuluh) tahun dan tidak dapat diperpanjang sejak perjanjian sewa-menyewa ditandatangani",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli akta perjanjian sewa-menyewa yang dibuat oleh notaris dengan mencantumkan hak untuk membeli pertama kali",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Pihak yang mewakili badan penyelenggara memiliki kapasitas untuk melakukan perbuatan hukum sesuai anggaran dasar badan penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Pihak yang menyewakan bukan salah satu unsur ketua/anggota/sekertaris/bendahara dalam organ badan penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.3",
+            "persyaratan": "Dalam hal prasarana untuk kampus PTS Akademik sebagaimana dikemukakan di atas belum dapat dipenuhi, Badan Penyelenggara dapat menggunakan prasarana atas nama pihak lain berdasarkan perjanjian sewa-menyewa dengan hak membeli pertama kali yang dibuat di hadapan Notaris. Perjanjian sewa-menyewa tersebut berlangsung paling lama 10 (sepuluh) tahun sejak perjanjian sewa-menyewa ditandatangani",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Akta notaris tentang perjanjian sewa-menyewa prasarana (gedung)",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          }
+        ]
+      },
+      "paska_visitasi": {
+        "kesimpulan_umum": "",
+        "hasil_evaluasi": "",
+        "indikator_evaluasi": [
+          {
+            "butir": "1.1",
+            "persyaratan": "Memiliki akta notaris pendirian Badan Penyelenggara beserta segala perubahannya (jika pernah dilakukan perubahan)",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Akta notaris pendirian Badan Penyelenggara beserta segala perubahannya (jika pernah dilakukan perubahan)",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Dalam anggaran dasar disebutkan bahwa salah satu kegiatan badan penyelenggara adalah menyelenggarakan pendidikan tinggi/lembaga formal dalam bentuk perguruan tinggi",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Dalam hal anggaran dasar badan penyelenggara telah mengalami beberapa kali perubahan, setiap perubahan tersebut tercantum dalam akta perubahan hingga akta yang terakhir",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "1.2",
+            "persyaratan": "Memiliki keputusan pejabat yang berwenang tentang pengesahan Badan Penyelenggara sebagai badan hukum, misalnya Surat Keputusan Menkumham untuk Yayasan",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Surat keputusan pejabat yang berwenang tentang pengesahan Badan Penyelenggara sebagai badan hukum, misalnya Surat Keputusan Menkumham untuk Yayasan",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "2.1",
+            "persyaratan": "Akta Notaris tentaang kesepakatan alih kelola/penggabungan/penyatuan PTS",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Akta Notaris tentaang kesepakatan alih kelola/penggabungan/penyatuan PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "3.1",
+            "persyaratan": "Keputusan izin pendirian PTS, dan izin pembukaan setiap program studi, beserta semua perubahannya",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Surat Keputusan izin pendirian PTS, izin pembukaan program setiap studi, beserta semua perubahannya",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Nama badan penyelenggara PTS dalam SK ijin pendirian sama dengan nama badan penyelenggara yang mengajukan usul",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "4.1",
+            "persyaratan": "Persetujuan Tertulis tentang Perubahan PTS dari organ Badan Penyelenggara yang berwenang sesuai dengan ketentuan Peraturan Perundang-Undangan, atau sebutan lain",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli surat persetujuan badan penyelenggara tentang perubahan PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Scan asli berita acara yang ditandatangani oleh organ Badan Penyelenggara yang berwenang sesuai dengan ketentuan Peraturan Perundang-Undangan dengan melampirkan daftar hadir rapat persetujuan perubahan PTS",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "5.1",
+            "persyaratan": "Pertimbangan Tertulis dari Senat PTS tentang Rekomendasi Perubahan PTS",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan Asli Pertimbangan Tertulis Senat PTS tentang Rekomendasi Perubahan PTS dilengkapi dengan berita acara dan daftar hadir Rapat Senat.",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "6.1",
+            "persyaratan": "Rekomendasi tertulis dari LLDIKTI (masa berlaku rekomendasi paling lama 1 tahun sejak rekomendasi ditandatangani) yang memuat:\n1. Rekam jejak (termasuk legalitas) Badan Penyelenggara yang berdomisili di wilayah LLDIKTI tempat PTS berada, atau apabila domisili Badan Penyelenggara berbeda dengan domisili PTS, rekomendasi diminta dari LLDIKTI di wilayah Badan Penyelenggara berdomisili;\n2. Tingkat kejenuhan berbagai Program Studi Akademik yang akan dibuka",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli Rekomendasi tertulis dari LLDIKTI.",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Rekomendasi menyebutkan dengan jelas jenis perubahan PTS yang diusulkan, nama badan penyelenggara yang mengusulkan, dan/atau program studi baru yang akan dibuka",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.1",
+            "persyaratan": "Lahan untuk kampus perguruan tinggi yang akan dibentuk memiliki luas paling sedikit 10.000 (sepuluh ribu) m2 untuk universitas, 8.000 (delapan ribu) m2 untuk institut, dan 5.000 (lima ribu) m2 untuk sekolah tinggi, dengan status Hak Milik, Hak Guna Bangunan, atau Hak Pakai atas nama Badan Penyelenggara, sebagaimana dibuktikan dengan Sertifikat Hak Milik, Hak Guna Bangunan, atau Hak Pakai dalam 1 (satu) wilayah kecamatan.",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli sertipikat hak atas tanah dengan status Hak Milik, Hak Guna Bangunan, atau Hak Pakai atas nama Badan Penyelenggara, sebagaimana dibuktikan dengan Sertifikat Hak Milik, Hak Guna Bangunan, atau Hak Pakai dalam 1 (satu) wilayah kecamatan; atau",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.2",
+            "persyaratan": "Dalam hal luas lahan untuk kampus PTS  Akademik sebagaimana dimaksud di atas tidak dapat dipenuhi, dengan izin Menteri kekurangan luas lahan dapat diperhitungkan dengan luas bangunan yang digunakan untuk kegiatan pembelajaran.",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli surat permohonan kepada Menteri tentang luas bangunan yang diperhitungkan sebagai pemenuhan kekurangan luas lahan  untuk kegiatan pembelajaran.",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.3",
+            "persyaratan": "Dalam hal status lahan untuk kampus PTS Akademik belum atas nama Badan Penyelanggara, Badan Penyelenggara dapat menggunakan lahan atas nama pihak lain berdasarkan perjanjian sewa-menyewa dengan hak membeli pertama kali yang dibuat di hadapan Notaris. Perjanjian sewa-menyewa tersebut berlangsung paling lama 10 (sepuluh) tahun dan tidak dapat diperpanjang sejak perjanjian sewa-menyewa ditandatangani",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Scan asli akta perjanjian sewa-menyewa yang dibuat oleh notaris dengan mencantumkan hak untuk membeli pertama kali",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Pihak yang mewakili badan penyelenggara memiliki kapasitas untuk melakukan perbuatan hukum sesuai anggaran dasar badan penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              },
+              {
+                "dokumen": "Pihak yang menyewakan bukan salah satu unsur ketua/anggota/sekertaris/bendahara dalam organ badan penyelenggara",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          },
+          {
+            "butir": "7.3",
+            "persyaratan": "Dalam hal prasarana untuk kampus PTS Akademik sebagaimana dikemukakan di atas belum dapat dipenuhi, Badan Penyelenggara dapat menggunakan prasarana atas nama pihak lain berdasarkan perjanjian sewa-menyewa dengan hak membeli pertama kali yang dibuat di hadapan Notaris. Perjanjian sewa-menyewa tersebut berlangsung paling lama 10 (sepuluh) tahun sejak perjanjian sewa-menyewa ditandatangani",
+            "pemenuhan": "",
+            "dokumen": [
+              {
+                "dokumen": "Akta notaris tentang perjanjian sewa-menyewa prasarana (gedung)",
+                "pemenuhan": "",
+                "keterangan": ""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
